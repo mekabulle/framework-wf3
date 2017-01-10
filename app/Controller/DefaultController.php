@@ -16,3 +16,11 @@ class DefaultController extends Controller
 	}
 
 }
+
+
+
+// class ArticlesController extends Controller {
+// 	public function afficher() {
+// 		$this -> show('articles/home');
+// 	}
+// }
