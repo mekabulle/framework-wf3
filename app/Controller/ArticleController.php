@@ -6,7 +6,7 @@ use \W\Controller\Controller;
 class ArticleController extends controller {
   public function afficherArticle() {
 
-    $this -> show('article/view_article');
+    $this -> show('article/article_view');
 
   }
 }
